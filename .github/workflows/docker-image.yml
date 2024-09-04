@@ -27,4 +27,5 @@ jobs:
       with:
         context: .
         push: true
-        tags: your-dockerhub-username/guestbook-go:latest
+        tags: nishu1304/guestbook-go:latest
+
